@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Openedu2_AndroidVersion</string>
+    <string name="poster">poster</string>
+    <string name="avatar">avatar</string>
+    <string name="version_trailer">"version "</string>
+    <string name="overview">Overview</string>
+</resources>
